@@ -1,0 +1,11 @@
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(1, 'claudia@boot.com', 'Claudia');
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(2, 'fernanda@boot.com', 'Fernanda');
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(3, 'ivan@boot.com', 'Ivan Garcia');
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(4, 'luis@boot.com', 'Luis');
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(5, 'mila@boot.com', 'Mila');
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(6, 'paula@boot.com', 'Paula Sofia');
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(7, 'iker@boot.com', 'Iker');
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(8, 'alvaro@boot.com', 'Alvaro');
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(9, 'jennypher@boot.com', 'Jennypher');
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(10, 'sonia@boot.com', 'Sonia');
+INSERT INTO USER(ID, EMAIL, NAME) VALUES(11, 'ricardo@boot.com', 'Ricardo');
